@@ -8,7 +8,7 @@ Programmet krever java 8 med unlimited crypto.
 
 * mvn package
 * pakk opp target/dekrypter-1.0-dist.zip til egnet mappe
-* cd egenet mappe
+* cd til egnet mappe
 * java -jar dekrypter.jar \<options\>
 
 Options for dekrypter-jar:
